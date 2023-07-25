@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Tumblurr",
+	"description": "Tumblurr is the king and the best Italian streamer",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/tumblurr"
+		],
+		"subreddit": [
+			"LaStalla"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				899,
+				899
+			],
+			[
+				975,
+				898
+			],
+			[
+				977,
+				918
+			],
+			[
+				900,
+				916
+			]
+		]
+	},
+	"center": {
+		"254": [
+			966,
+			908
+		]
+	}
+}
