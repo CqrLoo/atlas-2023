@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Zazzone230",
+	"description": "Name of a well-known Italian streamer\n\"Zazzone230\".",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/zazzone230"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1431,
+				182
+			],
+			[
+				1484,
+				182
+			],
+			[
+				1484,
+				189
+			],
+			[
+				1431,
+				189
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1458,
+			186
+		]
+	}
+}
