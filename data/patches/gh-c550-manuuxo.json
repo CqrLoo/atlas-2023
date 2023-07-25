@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": " ManuuXO",
+	"description": "Logo of the well-known Italian streamer \"ManuXO\".",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/manuuxo"
+		],
+		"subreddit": [
+			"manuuxo"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1330,
+				759
+			],
+			[
+				-1294,
+				759
+			],
+			[
+				-1292,
+				794
+			],
+			[
+				-1328,
+				796
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1311,
+			777
+		]
+	}
+}
